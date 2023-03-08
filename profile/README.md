@@ -14,7 +14,7 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 
 ## 2. System Settings
 
-### 2.1 Users
+### 2.1 Blockchain Integration System
 | UID | Name | Role | Addr | Description |
 |----------|----------|----------|----------|----------|
 | 870f21161952aa115ae78077fe8c9a78a5f57c3ac9ae4fb7c0fbe58167deec6300fb366bb5e48a0754c252fb27f8df6b66476064aff32dff43b167faa390e008 | Sup1 | SUPPLIER | TDCE4P2SBRSEFG7XY5K6VPTDR7YMRTBIGQU537CUFFIH2RKHFAC5QNX7OE | DESC |
