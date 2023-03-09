@@ -5,13 +5,13 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 
 ## 1. Supply Chain System
 
-[1.1 Supply Chain System User Interface](https://github.com/ALGO-SUPPLYCHAIN/sc-user-interface)
+[1.1 Supply Chain System User Interface: http://localhost:8080](https://github.com/ALGO-SUPPLYCHAIN/sc-user-interface)
 
-[1.2 Supply Chain Blockchain Integration System](https://github.com/ALGO-SUPPLYCHAIN/sc-blockchain-integration-server)
+[1.2 Supply Chain Device Management System: http://localhost:3000](https://github.com/ALGO-SUPPLYCHAIN/sc-device-mgt-server)
 
-[1.3 Supply Chain Device Management System](https://github.com/ALGO-SUPPLYCHAIN/sc-device-mgt-server)
+[1.3 Supply Chain Blockchain Integration System: http://localhost:3001](https://github.com/ALGO-SUPPLYCHAIN/sc-blockchain-integration-server)
 
-[1.4 Supply Chain Product Management System](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server) [TODO]()
+[1.4 Supply Chain Product Management System: http://localhost:3002](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server) [TODO]()
 
 [1.5 Supply Chain Delivery Management System](https://github.com/ALGO-SUPPLYCHAIN/sc-delivery-mgt-server) [TODO]()
 
