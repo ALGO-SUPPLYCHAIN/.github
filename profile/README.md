@@ -11,7 +11,22 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 
 [1.3 Supply Chain Blockchain Integration System: http://localhost:3001](https://github.com/ALGO-SUPPLYCHAIN/sc-blockchain-integration-server)
 
-[1.4 Supply Chain Product Management System: http://localhost:3002](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server) [TODO]()
+[1.4 Supply Chain Product Management System: http://localhost:3002](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server)
+
+## Supplier Actions in Product Management System
+The product management system allows suppliers to manage their products in the following ways:
+
+1. **Register a new product**: Suppliers can add new products to the system and provide basic information such as name, description, price, and category.
+
+2. **Update product details**: Suppliers can update product details such as the quantity available for sale, price, status (valid or invalid), discount, and other relevant information.
+
+3. **Update product quantity**: Once a certain number of products have been assigned to a dispatch order, the supplier can update the quantity available for sale.
+
+4. **Transfer products to Algorand Standard Assets (ASAs)**: Suppliers can convert physical products to ASAs, which enables transporters to deliver products to distributors and consumers.
+
+5. **Public visibility of product and delivery information**: All product information and delivery information are visible to the public. This allows consumers to make informed decisions about their purchases and enables effective tracking of the products throughout the supply chain.
+
+By providing these capabilities, the product management system enables suppliers to efficiently manage their products and streamline the supply chain process.
 
 [1.5 Supply Chain Delivery Management System](https://github.com/ALGO-SUPPLYCHAIN/sc-delivery-mgt-server) [TODO]()
 
