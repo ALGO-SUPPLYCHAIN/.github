@@ -5,13 +5,13 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 
 ## 1. Supply Chain System
 
-[1.1 Supply Chain System User Interface: http://localhost:8080](https://github.com/ALGO-SUPPLYCHAIN/sc-user-interface)<span style="color:green">In process</span>
+[1.1 Supply Chain System User Interface: http://localhost:8080](https://github.com/ALGO-SUPPLYCHAIN/sc-user-interface) <span style="color:green">In process</span>
 
-[1.2 Supply Chain Device Management System: http://localhost:3000](https://github.com/ALGO-SUPPLYCHAIN/sc-device-mgt-server)<span style="color:blue">Done </span><span style="color:red">Further updates may needed in order to integration with other subsystem</span>
+[1.2 Supply Chain Device Management System: http://localhost:3000](https://github.com/ALGO-SUPPLYCHAIN/sc-device-mgt-server) <span style="color:blue">Done </span><span style="color:red">Further updates may needed in order to integration with other subsystem</span>
 
-[1.3 Supply Chain Blockchain Integration System: http://localhost:3001](https://github.com/ALGO-SUPPLYCHAIN/sc-blockchain-integration-server)<span style="color:green">In process</span>
+[1.3 Supply Chain Blockchain Integration System: http://localhost:3001](https://github.com/ALGO-SUPPLYCHAIN/sc-blockchain-integration-server) <span style="color:green">In process</span>
 
-[1.4 Supply Chain Product Management System: http://localhost:3002](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server)<span style="color:green">In process</span>
+[1.4 Supply Chain Product Management System: http://localhost:3002](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server) <span style="color:green">In process</span>
 
 ## Supplier Actions in Product Management System
 The product management system allows suppliers to manage their products in the following ways:
