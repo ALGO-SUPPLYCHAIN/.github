@@ -10,6 +10,7 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 [1.1 Supply Chain System User Interface: http://localhost:8080]
 [1.3 Supply Chain Blockchain Integration System: http://localhost:3001]
 [1.4 Supply Chain Product Management System: http://localhost:3002]
+[1.5 Supply Chain Delivery Management SystemL http://localhost:3003]
 ```
 
 ```diff
@@ -21,7 +22,6 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 
 ```diff
 -TODO 
-[1.5 Supply Chain Delivery Management System](https://github.com/ALGO-SUPPLYCHAIN/sc-delivery-mgt-server) [TODO]()
 [1.6 Supply Chain Data Analysis Module](https://github.com/ALGO-SUPPLYCHAIN/sc-data-analysis-server) [TODO]()
 ```
 
@@ -37,6 +37,7 @@ ACE-SIP (Algorand Centre of Excellence on Sustainability Informatics for the Pac
 
 [1.4 Supply Chain Product Management System: http://localhost:3002](https://github.com/ALGO-SUPPLYCHAIN/sc-product-mgt-server)
 
+[1.5 Supply Chain Delivery Management SystemL http://localhost:3003](https://github.com/ALGO-SUPPLYCHAIN/sc-delivery-mgt-server)
 
 ## Supplier Actions in Product Management System
 
